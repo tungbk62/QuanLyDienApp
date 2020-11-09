@@ -1,0 +1,34 @@
+D:\quanlydien\QuanLyDienApp\QuanLyDienApp\bin\Debug\QuanLyDienApp.exe.config
+D:\quanlydien\QuanLyDienApp\QuanLyDienApp\bin\Debug\QuanLyDienApp.exe
+D:\quanlydien\QuanLyDienApp\QuanLyDienApp\bin\Debug\QuanLyDienApp.pdb
+D:\quanlydien\QuanLyDienApp\QuanLyDienApp\obj\Debug\QuanLyDienApp.csprojResolveAssemblyReference.cache
+D:\quanlydien\QuanLyDienApp\QuanLyDienApp\obj\Debug\QuanLyDienApp.Properties.Resources.resources
+D:\quanlydien\QuanLyDienApp\QuanLyDienApp\obj\Debug\QuanLyDienApp.csproj.GenerateResource.Cache
+D:\quanlydien\QuanLyDienApp\QuanLyDienApp\obj\Debug\QuanLyDienApp.exe
+D:\quanlydien\QuanLyDienApp\QuanLyDienApp\obj\Debug\QuanLyDienApp.pdb
+D:\quanlydien\QuanLyDienApp\QuanLyDienApp\obj\Debug\QuanLyDienApp.FormKhachHang.resources
+D:\quanlydien\QuanLyDienApp\QuanLyDienApp\obj\Debug\QuanLyDienApp.FormChiSoDien.resources
+D:\quanlydien\QuanLyDienApp\QuanLyDienApp\obj\Debug\QuanLyDienApp.FormHoaDon.resources
+D:\quanlydien\QuanLyDienApp\QuanLyDienApp\obj\Debug\QuanLyDienApp.FormThongKeDoanhSo.resources
+D:\quanlydien\QuanLyDienApp\QuanLyDienApp\obj\Debug\QuanLyDienApp.FormThongKeThanhToan.resources
+D:\quanlydien\QuanLyDienApp\QuanLyDienApp\obj\Debug\QuanLyDienApp.FormTimKiemHD.resources
+D:\quanlydien\QuanLyDienApp\QuanLyDienApp\obj\Debug\QuanLyDienApp.FormTimKiemKH.resources
+D:\quanlydien\QuanLyDienApp\QuanLyDienApp\obj\Debug\QuanLyDienApp.FormTaiKhoan.resources
+D:\quanlydien\QuanLyDienApp\QuanLyDienApp\obj\Debug\QuanLyDienApp.FormQLTaiKhoan.resources
+C:\Users\ADMIN\Downloads\do an 1\quanlydien\QuanLyDienApp\QuanLyDienApp\bin\Debug\QuanLyDienApp.exe.config
+C:\Users\ADMIN\Downloads\do an 1\quanlydien\QuanLyDienApp\QuanLyDienApp\obj\Debug\QuanLyDienApp.exe
+C:\Users\ADMIN\Downloads\do an 1\quanlydien\QuanLyDienApp\QuanLyDienApp\obj\Debug\QuanLyDienApp.pdb
+C:\Users\ADMIN\Downloads\do an 1\quanlydien\QuanLyDienApp\QuanLyDienApp\bin\Debug\QuanLyDienApp.exe
+C:\Users\ADMIN\Downloads\do an 1\quanlydien\QuanLyDienApp\QuanLyDienApp\bin\Debug\QuanLyDienApp.pdb
+C:\Users\ADMIN\Downloads\do an 1\quanlydien\QuanLyDienApp\QuanLyDienApp\obj\Debug\QuanLyDienApp.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\do an 1\quanlydien\QuanLyDienApp\QuanLyDienApp\obj\Debug\QuanLyDienApp.FormChiSoDien.resources
+C:\Users\ADMIN\Downloads\do an 1\quanlydien\QuanLyDienApp\QuanLyDienApp\obj\Debug\QuanLyDienApp.FormQLTaiKhoan.resources
+C:\Users\ADMIN\Downloads\do an 1\quanlydien\QuanLyDienApp\QuanLyDienApp\obj\Debug\QuanLyDienApp.FormTaiKhoan.resources
+C:\Users\ADMIN\Downloads\do an 1\quanlydien\QuanLyDienApp\QuanLyDienApp\obj\Debug\QuanLyDienApp.FormHoaDon.resources
+C:\Users\ADMIN\Downloads\do an 1\quanlydien\QuanLyDienApp\QuanLyDienApp\obj\Debug\QuanLyDienApp.FormKhachHang.resources
+C:\Users\ADMIN\Downloads\do an 1\quanlydien\QuanLyDienApp\QuanLyDienApp\obj\Debug\QuanLyDienApp.FormThongKeDoanhSo.resources
+C:\Users\ADMIN\Downloads\do an 1\quanlydien\QuanLyDienApp\QuanLyDienApp\obj\Debug\QuanLyDienApp.FormThongKeThanhToan.resources
+C:\Users\ADMIN\Downloads\do an 1\quanlydien\QuanLyDienApp\QuanLyDienApp\obj\Debug\QuanLyDienApp.FormTimKiemHD.resources
+C:\Users\ADMIN\Downloads\do an 1\quanlydien\QuanLyDienApp\QuanLyDienApp\obj\Debug\QuanLyDienApp.FormTimKiemKH.resources
+C:\Users\ADMIN\Downloads\do an 1\quanlydien\QuanLyDienApp\QuanLyDienApp\obj\Debug\QuanLyDienApp.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\do an 1\quanlydien\QuanLyDienApp\QuanLyDienApp\obj\Debug\QuanLyDienApp.csproj.GenerateResource.Cache
